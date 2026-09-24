@@ -1,0 +1,6 @@
+{
+  "name": "Construq ERP - Gestión Integral y Finanzas para Constructoras",
+  "description": "Plataforma empresarial fintech para constructoras: control de obras, desglose de impuestos y nómina UOCRA, liquidación de mano de obra, cuenta corriente de socios y gerencia (Máximo 40%, Sergio 25%, Mario 25%, Gerente 10%), distribución de utilidades, reportes Excel/PDF, autenticación MFA y asistente financiero IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
